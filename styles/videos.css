@@ -1,0 +1,28 @@
+.albumitem {
+	border: 1px solid #D7DFFD;
+}
+#linkbutton {
+	padding: 0px;
+	clear: both;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	line-height: 200%;
+}
+#linkbutton a {
+	font-size: 10px;
+	color: #003399;
+	background-color: #CDD8FC;
+	margin: 0px;
+	padding: 5px;
+	border: 1px solid #3460F3;
+}
+#linkbutton a:hover {
+	font-size: 10px;
+	color: #003399;
+	background-color: #DEE5FD;
+	margin: 0px;
+	padding: 5px;
+	border: 1px solid #6C8BF7;
+}
