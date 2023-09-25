@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" /> 
+			<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+			<head>
+				<meta http-equiv="Keywords" name="keywords" content="royal,schools,colombo,college,colleges,sri lanka,royal college,student information system,school news,exam results,attendance,education,sports" /> 
+				<meta http-equiv="Description" name="description" content="Official web site of the Royal College Colmbo, Sri Lanka which contains news, photo albums, school diary, sports information and student information" />
+				<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+				<link rel="SHORTCUT ICON" href="images/favicon.ico" /> 
+			    <title>School Diary</title>
+		    	<link rel="stylesheet" media="screen,projection" type="text/css" href="styles/main.css" /> 
+		    	<link rel="stylesheet" media="screen,projection" type="text/css" href="styles/diary.css" /> 
+			</head>
+<script type="text/javascript">
+	function viewMonth(year,month) {
+		document.frmDiary.year.value = year;
+		document.frmDiary.month.value = month;
+		document.frmDiary.submit();
+	}
+</script>
+
+	<form name="frmDiary" method="post" class="nodisplay">
+		<input type="hidden" name="year">
+		<input type="hidden" name="month">
+	</form>
+
+	<body id="inforoyal">
+		<div id="main" class="box">
+	    	<div id="header">
+				<div id="logo"></div>
+		        <h1 id="title">Info@Royal College (Updated by TK)</h1>
+    		    <hr class="noscreen">          
+	    	</div>
+			<div id="tabs" class="noprint">
+				<h3 class="noscreen">Navigation</h3>
+				<ul class="box">
+<li><a href="index.php">Home<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="photos.php">Photos<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="videos.php">Videos<span class="tab-l"></span><span class="tab-r"></span></a></li><li class="active"><a href="diary.php">Diary<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="sports.php">Sports<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="comments.php">Comments<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="sitemap.php">Site Map<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="faq.php">FAQ<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="support.php">Support<span class="tab-l"></span><span class="tab-r"></span></a></li>				</ul>
+				<hr class="noscreen">
+			</div> <!-- /tabs -->
+		    <div id="page" class="box">
+    			<div id="page-in" class="box">
+					<div id="strip" class="box noprint">
+						<p id="rss"><a href="contactus.php" target="_self">Contact Us</a></p>
+						<hr class="noscreen">
+						<p id="currentPosition">You are here: <strong>Diary</strong></p>
+						<hr class="noscreen">
+					</div> <!-- /strip -->
+					<div id="content">
+						<div class="article">
+							<h2><span>School Diary</span></h2>
+				
+								<p class="info noprint">
+									<span class="newstitle">Events in the month of December 2007</span>
+									<span class="noscreen">&nbsp;</span>
+								</p>
+<table border="0"><tr class="dayrow"><td class="day">1</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">2</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">3</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">4</td><td class="events">&loz;&nbsp;Saga IV Musical Extravaganza at BMICH</td></tr><tr class="dayrow"><td class="day">5</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">6</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">7</td><td class="events">&loz;&nbsp;   Last day of the third term</td></tr><tr class="dayrow"><td class="day">8</td><td class="events">&loz;&nbsp;Carol Services at Main Hall</td></tr><tr class="dayrow"><td class="day">9</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">10</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">11</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">12</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">13</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">14</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">15</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">16</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">17</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">18</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">19</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">20</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">21</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">22</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">23</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">24</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">25</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">26</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">27</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">28</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">29</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">30</td><td class="events">&nbsp;</td></tr><tr class="dayrow"><td class="day">31</td><td class="events">&nbsp;</td></tr></table>						</div>
+						<hr class="noscreen">
+					</div>
+					<div id="col" class="noprint">
+						<div id="col-in">
+							<h3><span>Quote of the day</span></h3>
+							<div id="quoteofday">
+								<p>	
+Love is life��And if you miss love, you miss life.					
+								</p>
+							</div>
+							<hr class="noscreen" />
+							<h3><span>Archive</span></h3>
+<ul id="archive"><li id="archive-active"><a href="javascript:viewMonth(2007,12)" target="_self">December 2007</a></li><li ><a href="javascript:viewMonth(2007,11)" target="_self">November 2007</a></li><li ><a href="javascript:viewMonth(2007,10)" target="_self">October 2007</a></li><li ><a href="javascript:viewMonth(2007,9)" target="_self">September 2007</a></li><li ><a href="javascript:viewMonth(2007,8)" target="_self">August 2007</a></li><li ><a href="javascript:viewMonth(2007,7)" target="_self">July 2007</a></li><li ><a href="javascript:viewMonth(2007,6)" target="_self">June 2007</a></li><li ><a href="javascript:viewMonth(2007,5)" target="_self">May 2007</a></li><li ><a href="javascript:viewMonth(2004,10)" target="_self">October 2004</a></li><li ><a href="javascript:viewMonth(2004,9)" target="_self">September 2004</a></li></ul><hr class="noscreen">						</div> <!-- /col-in -->
+					</div> <!-- /col -->
+				</div> <!-- /page-in -->
+			</div> <!-- /page -->
+		    <!-- Footer -->
+    		<div id="footer">
+        		<div id="top" class="noprint"><p><span class="noscreen">Back on top</span> <a href="#header" title="Back on top ^">^<span></span></a></p></div>
+		        <hr class="noscreen">
+    		    <p id="hits">32991 Hits Since 23-03-2007</p>
+        		<p id="copyright">&copy; 2023 Royal College. Colombo 07.</p>
+		    </div> 
+    		<!-- /footer -->
+		</div> <!-- /main -->
+	</body>
+
+</html>

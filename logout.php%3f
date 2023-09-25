@@ -1,0 +1,17 @@
+<html>
+<head>
+<link href="styles/general.css" rel="stylesheet" type="text/css"><link href="styles/msgbox.css" rel="stylesheet" type="text/css"><link href="styles/template.css" rel="stylesheet" type="text/css"><title> System </title>
+<META HTTP-EQUIV="Refresh" CONTENT="1; URL=http://www.inforoyal.com/front.php"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<hr class="horizontalSpace"><hr class="horizontalSpace"><table border="0" width="600" align="center" cellpadding="0" cellspacing="0"><tr>
+			<td class="windowTitleTopStart" valign="middle"></td>
+			<td class="windowTitleTopContinue" valign="middle" width="560">System</td>
+			<td class="windowTitleTopEnd" valign="middle"></td>
+		</tr><tr><td class="windowcontents" colspan="3"><table border="0" cellpadding="0" cellspacing="0"><tr><td class="infoWindowImage">&nbsp;</td><td class="infoWindowDescription">You have signed out of the system</td></tr></table></td></tr><tr>
+			<td class="windowTitleBottomStart" valign="middle"></td>
+			<td class="windowTitleBottomContinue" valign="middle" width="560"></td>
+			<td class="windowTitleBottomEnd" valign="middle"></td>
+		</tr></table></body></html>
+
+

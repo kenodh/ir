@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" /> 
+			<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+			<head>
+				<meta http-equiv="Keywords" name="keywords" content="royal,schools,colombo,college,colleges,sri lanka,royal college,student information system,school news,exam results,attendance,education,sports" /> 
+				<meta http-equiv="Description" name="description" content="Official web site of the Royal College Colmbo, Sri Lanka which contains news, photo albums, school diary, sports information and student information" />
+				<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+				<link rel="SHORTCUT ICON" href="images/favicon.ico" /> 
+			    <title>Comments</title>
+		    	<link rel="stylesheet" media="screen,projection" type="text/css" href="styles/main.css" /> 
+		    	<link rel="stylesheet" media="screen,projection" type="text/css" href="styles/template.css" /> 
+			</head>
+<script type="text/javascript">
+	function viewMonth(year,month) {
+		document.frmComment.year.value = year;
+		document.frmComment.month.value = month;
+		document.frmComment.submit();
+	}
+
+	function writeComment() {
+		document.frmComment.year.value = 0;
+		document.frmComment.month.value = 0;
+		document.frmComment.submit();
+	}
+	
+	function onSubmitClick() {
+		document.frmWriteComment.year.value = 0;
+		document.frmWriteComment.month.value = 0;
+		document.frmWriteComment.cmdSubmit.disabled = true;
+		document.frmWriteComment.submit();
+	}
+</script>
+
+	<form name="frmComment" method="post" class="nodisplay">
+		<input type="hidden" name="year" value="0">
+		<input type="hidden" name="month" value="0">
+	</form>
+
+	<body id="inforoyal">
+		<div id="main" class="box">
+	    	<div id="header">
+				<div id="logo"></div>
+		        <h1 id="title">Info@Royal College (Updated by TK)</h1>
+    		    <hr class="noscreen">          
+	    	</div>
+			<div id="tabs" class="noprint">
+				<h3 class="noscreen">Navigation</h3>
+				<ul class="box">
+<li><a href="index.php">Home<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="photos.php">Photos<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="videos.php">Videos<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="diary.php">Diary<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="sports.php">Sports<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="societies.php">Societies<span class="tab-l"></span><span class="tab-r"></span></a></li><li class="active"><a href="comments.php">Comments<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="sitemap.php">Site Map<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="faq.php">FAQ<span class="tab-l"></span><span class="tab-r"></span></a></li><li><a href="support.php">Support<span class="tab-l"></span><span class="tab-r"></span></a></li>				</ul>
+				<hr class="noscreen">
+			</div> <!-- /tabs -->
+		    <div id="page" class="box">
+    			<div id="page-in" class="box">
+					<div id="strip" class="box noprint">
+						<p id="rss"><a href="contactus.php" target="_self">Contact Us</a></p>
+						<hr class="noscreen">
+						<p id="currentPosition">You are here: <strong>Comments</strong></p>
+						<hr class="noscreen">
+					</div> <!-- /strip -->
+					<div id="content">
+						<div class="article">
+								<h2><span>User Comments</span></h2>							
+<p class="info noprint">
+												<span class="date">2008-01-19 11:34:14</span>&emsp;
+												<span class="user"></span>
+											</p>
+											<p>Dear sir,i was priviledged to be a part of the audience that witnessed the play The Accused. It was jus beyond imagination that school boys can pull of such a wonderful performance which even the most proffesionals of thespians would find hard to. I have been told that the three main Characters will be leaving school this year. I jus hope that you will pay enough attention to the up and coming dramatist so that the void thats created with the departure of the 3 guys would be filled. It really indeed was a right royal play.congtrats on that</p><br><p class="info noprint">
+												<span class="date">2008-01-16 20:52:53</span>&emsp;
+												<span class="user">abdullah </span>
+											</p>
+											<p>is there school on the 17th thursday pls send answers now to  abdullahzaheed@yahoo.com</p><br><p class="info noprint">
+												<span class="date">2008-01-16 17:29:49</span>&emsp;
+												<span class="user">Hemantha Jay Edirisooriya</span>
+											</p>
+											<p>Hi, Can someone please confirm when the Bradby will be played this year. I intend to travel to Sri Lanka during the Bradby time, hence need to know the dates to book the flights... Thanks.</p><br><p class="info noprint">
+												<span class="date">2008-01-04 20:32:52</span>&emsp;
+												<span class="user">roshan</span>
+											</p>
+											<p>please add Royal college SaGa 2004 and 2006 full video.</p><br><p class="info noprint">
+												<span class="date">2008-01-04 20:31:44</span>&emsp;
+												<span class="user">roshan</span>
+											</p>
+											<p>please add royal college 2004 and 2006 full video. wonderful musical show.....</p><br><p class="info noprint">
+												<span class="date">2008-01-03 18:58:50</span>&emsp;
+												<span class="user">SKAT</span>
+											</p>
+											<p>please take offthr vegetables and stuff from the "moving with technology"article</p><br><p class="info noprint">
+												<span class="date">2008-01-03 13:38:35</span>&emsp;
+												<span class="user">chanaka</span>
+											</p>
+											<p>hey, i couldnt get my student informations.. so how can i get that..  </p><br><p class="info noprint">
+												<span class="date">2008-01-03 11:59:01</span>&emsp;
+												<span class="user">HasH</span>
+											</p>
+											<p>Please get rid of those vegitables from the "Moveing with technology" article. That has no scense at all. Dear pricipal, get some cows in as u did in Isipathana</p><br><p class="info noprint">
+												<span class="date">2008-01-01 20:29:07</span>&emsp;
+												<span class="user">Old boy</span>
+											</p>
+											<p>Dear 2007-12-17 15:58:35&#8195; one of the parents I am one of the old boy's and i am proud to tell you that when we were schooling at royal this website was not there. Bu still managed to pass on all the information. This is the first time a school has lauched such a thing and i assume it will take some time to get things to place. We should appreciate the initiative of the principal and the relevant people in getting this started. However, i have all faith in the college authorities to deliver your request. Having said that please keep in mind that old boys or students in other schools do not have this facility and the students do inform parents on the happenings. Not happening in your case is up to you to sort out i believe.</p><br>						</div>
+						<hr class="noscreen">
+					</div>
+					<div id="col" class="noprint">
+						<div id="col-in">
+							<h3><span>Quote of the day</span></h3>
+							<div id="quoteofday">
+								<p>	
+Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.					
+								</p>
+							</div>
+							<hr class="noscreen" />
+							<h3><span>Common Tasks</span></h3>
+								<ul id="archive">
+									<li><a href="javascript:writeComment();">Write a comment</a></li>
+								</ul>
+							<hr class="noscreen" />
+							<h3><span>Archive</span></h3>
+<ul id="archive"><li id="archive-active"><a href="javascript:viewMonth(2008,1)" target="_self">January 2008</a></li><li ><a href="javascript:viewMonth(2007,12)" target="_self">December 2007</a></li><li ><a href="javascript:viewMonth(2007,11)" target="_self">November 2007</a></li><li ><a href="javascript:viewMonth(2007,10)" target="_self">October 2007</a></li><li ><a href="javascript:viewMonth(2007,9)" target="_self">September 2007</a></li><li ><a href="javascript:viewMonth(2007,8)" target="_self">August 2007</a></li><li ><a href="javascript:viewMonth(2007,7)" target="_self">July 2007</a></li><li ><a href="javascript:viewMonth(2007,6)" target="_self">June 2007</a></li><li ><a href="javascript:viewMonth(2007,5)" target="_self">May 2007</a></li><li ><a href="javascript:viewMonth(2007,4)" target="_self">April 2007</a></li><li ><a href="javascript:viewMonth(2007,3)" target="_self">March 2007</a></li></ul><hr class="noscreen">						</div> <!-- /col-in -->
+					</div> <!-- /col -->
+				</div> <!-- /page-in -->
+			</div> <!-- /page -->
+		    <!-- Footer -->
+    		<div id="footer">
+        		<div id="top" class="noprint"><p><span class="noscreen">Back on top</span> <a href="#header" title="Back on top ^">^<span></span></a></p></div>
+		        <hr class="noscreen">
+    		    <p id="hits">41923 Hits Since 23-03-2007</p>
+        		<p id="copyright">&copy; 2023 Royal College. Colombo 07.</p>
+		    </div> 
+    		<!-- /footer -->
+		</div> <!-- /main -->
+	</body>
+
+</html>
